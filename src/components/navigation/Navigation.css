@@ -17,6 +17,13 @@ nav {
 nav a,
 nav a:visited {
     text-decoration: none;
+
+}
+
+.current-nav {
+    text-decoration: underline;
+    text-decoration-color: whitesmoke;
+    color: red !important;
 }
 
 nav a:hover {

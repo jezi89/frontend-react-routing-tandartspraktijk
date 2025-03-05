@@ -24,12 +24,13 @@ img {
 
 a,
 a:visited {
-  color: white;
+  color: darkgreen;
   font-weight: bold;
+  text-decoration: none;
 }
 
 a:hover {
-  color: #3624FF;
+  color: goldenrod;
 }
 
 .content-container-col3 {
